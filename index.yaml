@@ -3,22 +3,12 @@ entries:
   mvi-edge:
   - apiVersion: v2
     appVersion: 8.4.0
-    created: "2022-08-18T10:20:36.511355-04:00"
+    created: "2022-08-18T10:50:19.746504-04:00"
     description: Deployment of a single pod with MVI Edge deployment
-    digest: 6a60c56968e8c70bbcf51c265c0d2ac591f99b5ba556de18b9dcc9a7bf369b5f
+    digest: ad0b22df554a37db180690c73e52ad7f5cf8930dcd9bce71bdbcd4eb2e0cb005
     name: mvi-edge
     type: application
     urls:
-    - https://github.com/thinkahead/helm-charts/releases/download/mvi-edge-0.1.1/mvi-edge-0.1.1.tgz
-    version: 0.1.1
-  - apiVersion: v2
-    appVersion: 8.4.0
-    created: "2022-08-18T10:20:36.310972-04:00"
-    description: Deployment of a single pod with MVI Edge deployment
-    digest: ebbd309a4be495208788d84e63890bac32ea82f92cf3d7a6799372dc2c917d72
-    name: mvi-edge
-    type: application
-    urls:
-    - https://github.com/thinkahead/helm-charts/releases/download/mvi-edge-0.1.0/mvi-edge-0.1.0.tgz
-    version: 0.1.0
-generated: "2022-08-18T10:20:36.511376-04:00"
+    - https://github.com/thinkahead/helm-charts/releases/download/mvi-edge-0.1.2/mvi-edge-0.1.2.tgz
+    version: 0.1.2
+generated: "2022-08-18T10:50:19.746519-04:00"
